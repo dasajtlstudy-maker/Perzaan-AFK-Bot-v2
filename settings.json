@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "esicians.minefort.com",
-    "port": 25565,
-    "version": "26.3"
+    "port": 19132,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
